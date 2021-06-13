@@ -1,6 +1,6 @@
 # Xylophone <img src="./assets/Logo.jpg" width="60" align="center" />
 
-*A musical instrument App.*
+*A musical instrument App.* :musical_keyboard:	
 
 
 ## About
